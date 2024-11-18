@@ -1,4 +1,4 @@
-# Welcome to my **Feedback Organizer**
+# Welcome to **Smart Ticket**
 This project is a feedback organizer integrated with Emotion-detection and Zero-class classification models.
 
 # Requirements
